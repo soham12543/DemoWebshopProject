@@ -1,0 +1,2 @@
+# DemoWebshopProject
+com.DemoWebshop.Project
